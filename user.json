@@ -1,0 +1,43 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "john doe",
+            "email": "john.doe@example.com",
+            "age": 29,
+            "active": true,
+            "address": {
+                "street": "123 Main St",
+                "city": "New York",
+                "state": "NY",
+                "zip": "10001"
+            }
+        },
+        {
+            "id": 2,
+            "name": "jane smith",
+            "email": "jane.smith@example.com",
+            "age": 30,
+            "active": false,
+            "address": {
+                "street": "111 Main St",
+                "city": "New York",
+                "state": "NY",
+                "zip": "10001"
+            }
+        },
+        {
+            "id": 3,
+            "name": "bob johnson",
+            "email": "bob.johnson@example.com",
+            "age": 24,
+            "active": true,
+            "address": {
+                "street": "123 Main St",
+                "city": "New York",
+                "state": "NY",
+                "zip": "10001"
+            }
+        }
+    ]
+}

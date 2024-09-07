@@ -1,0 +1,12 @@
+{
+  "product_id": "A123",
+  "name": "Wireless Headphones",
+  "description": "High-quality wireless headphones with noise-cancellation.",
+  "price": 99.99,
+  "in_stock": true,
+  "categories": ["Electronics", "Audio", "Accessories"],
+  "ratings": {
+    "average": 4.5,
+    "reviews_count": 102
+  }
+}
